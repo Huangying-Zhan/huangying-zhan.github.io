@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Coming soon...
+[Download here](http://academicpages.github.io/files/HuangyingZhan_CV_20180722.pdf)
