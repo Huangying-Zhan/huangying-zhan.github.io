@@ -17,7 +17,7 @@ NEWS
 * 07/2018: One paper accepted to ECCV 2018
 * 06/2018: Attended CVPR 2018 @ Salt Lake City, USA
 * 02/2018: One paper accepted to CVPR 2018
-* 07/2017: One paper accepted to IROS 2017
+* 06/2017: One paper accepted to IROS 2017
 * 02/2017: Start my Ph.D in University of Adelaide
 
 
