@@ -1,9 +1,9 @@
 ---
 title: "Deep Learning for 2D Scan Matching and Loop Closure Detection"
 collection: publications
-permalink: /publication/2017-09-deep-scan-matching
+permalink: /publication/2017-deep-scan-matching
 excerpt: ''
-date: 2017-09
+date: 2017-09-24
 venue: 'IROS 2017'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: ''
