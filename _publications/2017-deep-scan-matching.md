@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-deep-scan-matching
 excerpt: ''
 date: 2017-09-24
-venue: 'IROS 2017'
+venue: 'IROS'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: ''
 ---
