@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student at the University of Adelaide and affiliated with the Australian Centre for Robotic Vision. I am advised by Prof. [Ian Reid](https://cs.adelaide.edu.au/~ianr/) and Prof. [Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/). My research interests include deep learning and its application in robotic vision. Previously, I received my B.Eng degree in Electronic Engineering (first class honors) from The Chinese University of Hong Kong (CUHK), where I was advised by Prof. [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/). Also, I was a visiting student in the [Unmanned Systems Research Group](http://uav.ece.nus.edu.sg/) at The National University of Singapore, where I worked with Prof. [Ben M. Chen](http://uav.ece.nus.edu.sg/~bmchen/).
+I am a Ph.D. Student at the University of Adelaide and affiliated with the [Australian Centre for Robotic Vision](https://www.roboticvision.org/). I am advised by Prof. [Ian Reid](https://cs.adelaide.edu.au/~ianr/) and Prof. [Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/). My research interests include deep learning and its application in robotic vision. Previously, I received my B.Eng degree in Electronic Engineering (first class honors) from The Chinese University of Hong Kong (CUHK), where I was advised by Prof. [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/). Also, I was a visiting student in the [Unmanned Systems Research Group](http://uav.ece.nus.edu.sg/) at The National University of Singapore, where I worked with Prof. [Ben M. Chen](http://uav.ece.nus.edu.sg/~bmchen/).
 
 NEWS
 ======
