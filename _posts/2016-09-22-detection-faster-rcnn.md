@@ -8,9 +8,9 @@ tags:
 
 ### Summary
 
-This post records my experience with py-faster-rcnn, including how to setup py-faster-rcnn from scratch, how to perform a demo training on PASCAL VOC dataset by py-faster-rcnn, how to train your own dataset, and some errors I encountered. All the steps are based on Ubuntu 14.04 + CUDA 8.0. Faster R-CNN is an important research result for object detection with an end-to-end deep convolutional neural network architure. For the details, please refer to [original paper](https://huangying-zhan.github.io/public/post_resource/Paper/detection/2016_faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) or [my summary](https://huangying-zhan.github.io/2016/08/24/detection.html#Faster%20R-CNN).
+This post records my experience with py-faster-rcnn, including how to setup py-faster-rcnn from scratch, how to perform a demo training on PASCAL VOC dataset by py-faster-rcnn, how to train your own dataset, and some errors I encountered. All the steps are based on Ubuntu 14.04 + CUDA 8.0. Faster R-CNN is an important research result for object detection with an end-to-end deep convolutional neural network architure. For the details, please refer to [original paper](https://huangying-zhan.github.io/public/post_resource/Paper/detection/2016_faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf).
 
-The source code is provided at: https://github.com/Huangying-Zhan/py-faster-rcnn
+The source code related to adding own dataset is provided at: (https://github.com/Huangying-Zhan/py-faster-rcnn)[https://github.com/Huangying-Zhan/py-faster-rcnn]
 
 ___
 
@@ -79,7 +79,7 @@ In this part, a simple instruction for install py-faster-rcnn is introduced. The
     $ ./tools/demo.py
     ```
 
-<br></br>
+
 
 ___
 
@@ -115,7 +115,7 @@ In this part, the training of py-faster-rcnn will be explained. Firstly, an orig
     ```
 
 
-<br></br>
+
 
 #### 2.2. Training 
 
@@ -254,7 +254,7 @@ Here is a remark about the logic and idea behind the training script.
 
     `train.prototxt` describes the network structure, including number of layer, type of layer, number of neurons in each layer, etc. Again, refer to [Caffe's MNIST tutorial](http://caffe.berkeleyvision.org/gathered/examples/mnist.html) in order to understand `train.prototxt`.
 
-<br></br>
+
 
 ___
 
@@ -320,7 +320,7 @@ DISCLAIMER: This dataset should be only used for non-commercial research activit
 
 	Since new dataset may have conflicts in annotation with original PASCAL VOC dataset. For example, ImageNet images start with index 0 in row and col while PASCAL VOC dataset starts with index 1. In `imdb.py`, a part of code should be inserted in `append_flipped_images()`. Refer to source code.
 
-<br></br>
+
 
 #### 3.2. Prepare network and pre-trained model
 
@@ -370,7 +370,7 @@ Now, we should modify all files in `basketball/`, including,
 
 The details and code will be explained in the following part.
 
-<br></br>
+
 
 #### 3.3. Training and evaluation
 
@@ -420,7 +420,7 @@ After going through such long path, training on py-faster-rcnn is completed!
 
 
 
-<br></br>
+
 
 ___
 
