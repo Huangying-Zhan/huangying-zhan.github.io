@@ -1,7 +1,7 @@
 ---
 title:  "Detection: Faster R-CNN"
 date:   2016-09-22
-permalink: /posts/2016/detection-faster-rcnn
+permalink: /2016/09/22/detection-faster-rcnn
 tags:
   - Detection
 ---
