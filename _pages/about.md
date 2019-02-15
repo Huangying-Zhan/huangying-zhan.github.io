@@ -13,6 +13,7 @@ I am a Ph.D. Student at the University of Adelaide and affiliated with the [Aust
 NEWS
 ======
 
+* 01/2018: One paper accepted to ICRA 2019
 * 07/2018: Join HoloLens team @ Microsoft Redmond as a Research Intern
 * 07/2018: One paper accepted to ECCV 2018
 * 06/2018: Attend CVPR 2018 @ Salt Lake City, USA
