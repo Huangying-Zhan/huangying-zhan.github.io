@@ -12,7 +12,9 @@ I am a Ph.D. Student at the University of Adelaide and affiliated with the [Aust
 
 NEWS
 ======
-
+* 10/2019: One paper accepted to ICCV-Workshop (Deep Learning for Visual SLAM) 2019
+* 09/2019: One paper accepted to NeurIPS 2019
+* 05/2019: Attend ICRA 2019 @ Montreal, Canada
 * 01/2019: One paper accepted to ICRA 2019
 * 07/2018: Join HoloLens team @ Microsoft Redmond as a Research Intern
 * 07/2018: One paper accepted to ECCV 2018
