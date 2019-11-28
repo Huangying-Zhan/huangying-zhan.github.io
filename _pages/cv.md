@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="http://huangying-zhan.github.io/files/HuangyingZhan_CV_20190215.pdf" target="_blank">Download here</a>
+<a href="http://huangying-zhan.github.io/files/HuangyingZhan_CV_20191128.pdf" target="_blank">Download here</a>
