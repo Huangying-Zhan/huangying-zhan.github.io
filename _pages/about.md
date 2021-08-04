@@ -8,20 +8,57 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student at the University of Adelaide and affiliated with the [Australian Centre for Robotic Vision](https://www.roboticvision.org/). I am advised by Prof. [Ian Reid](https://cs.adelaide.edu.au/~ianr/) and Prof. [Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/). My research interests include deep learning and its application in robotic vision. Previously, I received my B.Eng degree in Electronic Engineering (first class honors) from The Chinese University of Hong Kong (CUHK), where I was advised by Prof. [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/). Also, I was a visiting student in the [Unmanned Systems Research Group](http://uav.ece.nus.edu.sg/) at The National University of Singapore, where I worked with Prof. [Ben M. Chen](http://uav.ece.nus.edu.sg/~bmchen/).
+I am a Postdoctoral Researcher at the University of Adelaide, where I am working with [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/) @ Uni.Adelaide and [Dr. Hamid Rezatofighi](https://research.monash.edu/en/persons/hamid-rezatofighi) @ Monash University.
+I am associated with [The Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/) @ UniAdelaide 
+and [Vision & Learning for Autonomous AI Lab(VL4AI)](https://vl4ai.erc.monash.edu/index.html) @ Monash University.
+My research interests include deep learning and its application in robotic vision and visual navigation. 
+
+Piror to that, I received my Ph.D. degree from the University of Adelaide and I was affiliated with the [Australian Centre for Robotic Vision](https://www.roboticvision.org/), where I was advised by [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/) and [Prof. Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/). 
+Previously, I received my B.Eng degree in Electronic Engineering (first class honors) from The Chinese University of Hong Kong (CUHK), where I was advised by [Prof. Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/). 
+Also, I was a visiting student in the [Unmanned Systems Research Group](http://uav.ece.nus.edu.sg/) at The National University of Singapore, where I worked with [Prof. Ben M. Chen](http://uav.ece.nus.edu.sg/~bmchen/).
+
 
 NEWS
 ======
-* 10/2019: One paper accepted to ICCV-Workshop (Deep Learning for Visual SLAM) 2019
-* 09/2019: One paper accepted to NeurIPS 2019
+* 05/2021: One paper is accepted to IJCV:
+[Unsupervised Scale-consistent Depth Learning from Video](https://link.springer.com/article/10.1007/s11263-021-01484-6)
+
+* 03/2021: The extended report for our ICRA2020 (DF-VO) is online:
+[DF-VO: What Should Be Learnt for Visual Odometry?](https://arxiv.org/abs/2103.00933)
+
+* 08/2020: Start my Postdoc position in The University of Adelaide.
+
+* 06/2020: One new arxiv paper is online:
+[unsupervised depth learning in indoor](https://arxiv.org/abs/2006.02708)
+
+* 01/2020: One paper accepted to ICRA 2020:
+[Visual odometry revisited: What should be learnt?](https://ieeexplore.ieee.org/abstract/document/9197374)
+
+* 10/2019: One paper accepted to ICCV-Workshop (Deep Learning for Visual SLAM) 2019:
+[Camera relocalization by exploiting multi-view constraints](https://openaccess.thecvf.com/content_ICCVW_2019/html/DL4VSLAM/Cai_Camera_Relocalization_by_Exploiting_Multi-View_Constraints_for_Scene_Coordinates_Regression_ICCVW_2019_paper.html)
+
+* 09/2019: One paper accepted to NeurIPS 2019:
+[Scale-consistent depth and ego-motion learning](https://arxiv.org/abs/1908.10553)
+
 * 05/2019: Attend ICRA 2019 @ Montreal, Canada
-* 01/2019: One paper accepted to ICRA 2019
+
+* 01/2019: One paper accepted to ICRA 2019:
+[Self-supervised depth and surface normal learning](https://ieeexplore.ieee.org/abstract/document/8793984)
+
 * 07/2018: Join HoloLens team @ Microsoft Redmond as a Research Intern
-* 07/2018: One paper accepted to ECCV 2018
+
+* 07/2018: One paper accepted to ECCV 2018:
+[Efficient dense point cloud object reconstruction](https://openaccess.thecvf.com/content_ECCV_2018/html/Kejie_Li_Efficient_Dense_Point_ECCV_2018_paper.html)
+
 * 06/2018: Attend CVPR 2018 @ Salt Lake City, USA
-* 02/2018: One paper accepted to CVPR 2018
-* 06/2017: One paper accepted to IROS 2017
-* 02/2017: Start my Ph.D in University of Adelaide
+
+* 02/2018: One paper  accepted to CVPR 2018: 
+[Unsupervised monocular depth and visual odometry learning](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.html)
+
+* 06/2017: One paper accepted to IROS 2017: 
+[Deep learning for 2D scan matching and loop closure](https://ieeexplore.ieee.org/abstract/document/8202236)
+
+* 02/2017: Start my Ph.D in The University of Adelaide
 
 
 

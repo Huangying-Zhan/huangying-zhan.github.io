@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huangying Zhan / 粘煌熒"
 title_separator          : "-"
 name                     : &name "Huangying Zhan"
-description              : &description "Ph.D Student"
+description              : &description "Postdoctoral Researcher"
 url                      : https://huangying-zhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huangying-zhan.github.io"
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Huangying Zhan"
-  avatar           : "profile.png"
-  bio              : "Ph.D student at University of Adelaide"
+  avatar           : "profile_v2.jpg"
+  bio              : "Postdoctoral Researcher at The University of Adelaide"
   location         : "Adelaide, Australia"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=bZUyUy4AAAAJ&hl=en"
