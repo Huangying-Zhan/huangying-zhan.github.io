@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Huangying Zhan / 粘煌熒"
 title_separator          : "-"
 name                     : &name "Huangying Zhan"
-description              : &description "Staff Research Engineer/Scientist"
+description              : &description "Staff Research Engineer"
 url                      : https://huangying-zhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huangying-zhan.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Huangying Zhan"
   avatar           : "profile_v2.jpg"
-  bio              : "Staff Research Engineer/Scientist at InnoPeak Technology, Inc."
+  bio              : "Staff Research Engineer at InnoPeak Technology, Inc."
   location         : "Palo Alto, California, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=bZUyUy4AAAAJ&hl=en"
