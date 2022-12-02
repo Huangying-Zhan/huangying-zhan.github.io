@@ -8,18 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the University of Adelaide, where I am working with [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/) @ Uni.Adelaide and [Dr. Hamid Rezatofighi](https://research.monash.edu/en/persons/hamid-rezatofighi) @ Monash University.
-I am associated with [The Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/) @ UniAdelaide 
+I am currently a __Staff Research Engineer/Scientist__ at [InnoPeak Technology, Inc.](https://www.innopeaktech.com/) (a.k.a OPPO US Research Center) where I am working on R&D for XR (AR/VR/MR) related projects.
+Previously, I was a Postdoctoral Researcher at the University of Adelaide, where I work with [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/) @ Uni.Adelaide and [Dr. Hamid Rezatofighi](https://research.monash.edu/en/persons/hamid-rezatofighi) @ Monash University.
+I was associated with [The Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/) @ UniAdelaide 
 and [Vision & Learning for Autonomous AI Lab(VL4AI)](https://vl4ai.erc.monash.edu/index.html) @ Monash University.
-My research interests include deep learning and its application in robotic vision and visual navigation. 
+My research interests include deep learning and its application in 3D vision and robotic vision. 
 
 Piror to that, I received my Ph.D. degree from the University of Adelaide and I was affiliated with the [Australian Centre for Robotic Vision](https://www.roboticvision.org/), where I was advised by [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/) and [Prof. Gustavo Carneiro](https://cs.adelaide.edu.au/~carneiro/). 
 Previously, I received my B.Eng degree in Electronic Engineering (first class honors) from The Chinese University of Hong Kong (CUHK), where I was advised by [Prof. Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/). 
-Also, I was a visiting student in the [Unmanned Systems Research Group](http://uav.ece.nus.edu.sg/) at The National University of Singapore, where I worked with [Prof. Ben M. Chen](http://uav.ece.nus.edu.sg/~bmchen/).
+Also, I was a visiting researcher in the [Unmanned Systems Research Group](http://uav.ece.nus.edu.sg/) at The National University of Singapore, where I worked with [Prof. Ben M. Chen](http://uav.ece.nus.edu.sg/~bmchen/).
 
 
 NEWS
 ======
+
+
+* 11/2022: Four new arxiv papers are online:
+
+  [SC-DepthV3: Robust Self-supervised Monocular Depth Estimation for Dynamic Scenes](https://arxiv.org/abs/2211.03660)
+
+  [ActiveRMAP: Radiance Field for Active Mapping And Planning](https://arxiv.org/abs/2211.12656)
+
+  [Predicting Topological Maps for Visual Navigation in Unexplored Environments](https://arxiv.org/abs/2211.12649)
+
+  [What Images are More Memorable to Machines?](https://arxiv.org/abs/2211.07625)
+
+* 10/2021: Move to CA, USA and start my new position in InnoPeak Technology, Inc.
+
+* 12/2021: One paper is accepted to 3DV:
+[NVSS: High-quality Novel View Selfie Synthesis](https://ieeexplore.ieee.org/document/9665938)
+
+* 12/2021: One paper is accepted to TPAMI:
+[Auto-Rectify Network for Unsupervised Indoor Depth Estimation](https://arxiv.org/abs/2006.02708)
+
 * 05/2021: One paper is accepted to IJCV:
 [Unsupervised Scale-consistent Depth Learning from Video](https://link.springer.com/article/10.1007/s11263-021-01484-6)
 
