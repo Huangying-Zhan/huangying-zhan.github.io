@@ -33,7 +33,7 @@ NEWS
 
   [What Images are More Memorable to Machines?](https://arxiv.org/abs/2211.07625)
 
-* 10/2021: Move to CA, USA and start my new position in InnoPeak Technology, Inc.
+* 10/2022: Move to CA, USA and start my new position in InnoPeak Technology, Inc.
 
 * 12/2021: One paper is accepted to 3DV:
 [NVSS: High-quality Novel View Selfie Synthesis](https://ieeexplore.ieee.org/document/9665938)
