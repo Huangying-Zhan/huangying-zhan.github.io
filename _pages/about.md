@@ -22,6 +22,9 @@ Also, I was a visiting researcher in the [Unmanned Systems Research Group](http:
 NEWS
 ======
 
+* 02/2023: __We are hiring 2023 summer interns to work on research projects related to 3D vision! Feel free to drop me an email if you're interested.__ 
+
+* 12/2022: It is my pleasure to be recognised as “Outstanding Reviewer” for ACCV 2022 for having provided helpful, high-quality reviews.
 
 * 11/2022: Four new arxiv papers are online:
 
