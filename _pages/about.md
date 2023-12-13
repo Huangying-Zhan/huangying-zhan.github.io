@@ -21,7 +21,7 @@ Also, I was a visiting researcher in the [Unmanned Systems Research Group](http:
 
 NEWS
 ======
-* 12/2023: __We are hiring 2024 summer interns to work on research projects related to 3D Vision! Feel free to drop me an email if you're interested.__
+* 12/2023: __We are hiring [2024 summer interns](https://apply.workable.com/innopeaktech/j/BC7EE44D37/) to work on research projects related to 3D Vision! Feel free to drop me an email if you're interested.__
 
 * 10/2023: One paper is accepted to T-PAMI: [SC-DepthV3: Robust Self-supervised Monocular Depth Estimation for Dynamic Scenes](https://arxiv.org/abs/2211.03660)
 
