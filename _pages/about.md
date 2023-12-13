@@ -21,8 +21,11 @@ Also, I was a visiting researcher in the [Unmanned Systems Research Group](http:
 
 NEWS
 ======
+* 12/2023: __We are hiring 2024 summer interns to work on research projects related to 3D Vision! Feel free to drop me an email if you're interested.__
 
-* 02/2023: __We are hiring 2023 summer interns to work on research projects related to 3D vision! Feel free to drop me an email if you're interested.__ 
+* 10/2023: One paper is accepted to T-PAMI: [SC-DepthV3: Robust Self-supervised Monocular Depth Estimation for Dynamic Scenes](https://arxiv.org/abs/2211.03660)
+
+* 02/2023: ~~We are hiring 2023 summer interns to work on research projects related to 3D vision! Feel free to drop me an email if you're interested.~~ 
 
 * 12/2022: It is my pleasure to be recognised as “Outstanding Reviewer” for ACCV 2022 for having provided helpful, high-quality reviews.
 
