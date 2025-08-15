@@ -22,27 +22,30 @@ Earlier in my academic journey, I earned a **B.Eng. in Electronic Engineering (F
 NEWS
 ======
 
-* 06/2026: One preprint is online:
+* 08/2025: One preprint is online:
+  **RLGS: Reinforcement Learning-Based Adaptive Hyperparameter Tuning for Gaussian Splatting**
+  [[arxiv]](https://www.arxiv.org/abs/2508.04078)
+
+* 06/2025: One preprint is online:
   **Understanding while Exploring: Semantics-driven Active Mapping**
   [[arxiv]](https://arxiv.org/abs/2506.00225)
 
-* 03/2026: One preprint is online:
+* 03/2025: One preprint is online:
   **Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**
   [[arxiv]](https://arxiv.org/abs/2503.21767)
 
+* 03/2025: One paper is accepted to LNCS 2025: 
+  **Dynamic voxel grid optimization for high-fidelity rgb-d supervised surface reconstruction**
+  [[arxiv]](https://arxiv.org/pdf/2304.06178)
 
-* 02/2026: One paper is accepted to CVPR 2025: 
+* 02/2025: One paper is accepted to CVPR 2025: 
   **ActiveGAMER: Active GAussian Mapping through Efficient Rendering**
   [[project page]](https://oppo-us-research.github.io/ActiveGAMER-website/)
   [[arxiv]](https://arxiv.org/pdf/2501.06897)
   [[code]](https://github.com/oppo-us-research/ActiveGAMER)
   [[video]](https://www.youtube.com/watch?v=2sfVMuZq92Y)
 
-* 01/2026: Start a new role at [Goertek Alpha Labs](https://www.goertek.com/en/).
-
-* 05/2025: One paper is accepted to CGI 2025: 
-  **Dynamic voxel grid optimization for high-fidelity rgb-d supervised surface reconstruction**
-  [[arxiv]](https://arxiv.org/pdf/2304.06178)
+* 01/2025: Start a new role at [Goertek Alpha Labs](https://www.goertek.com/en/).
 
 * 01/2025: One paper is accepted to ICRA 2025: 
   **PlanarNeRF: Online Learning of Planar Primitives with Neural Radiance Fields**
