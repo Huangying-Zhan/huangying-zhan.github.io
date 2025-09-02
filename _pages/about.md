@@ -22,7 +22,7 @@ Earlier in my academic journey, I earned a **B.Eng. in Electronic Engineering (F
 NEWS
 ======
 
-<div style="max-height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+
 
 * 08/2025: One preprint is online:
   **RLGS: Reinforcement Learning-Based Adaptive Hyperparameter Tuning for Gaussian Splatting**
@@ -157,6 +157,3 @@ NEWS
   [[paper]](https://ieeexplore.ieee.org/abstract/document/8202236)
 
 * 02/2017: Start my Ph.D in The University of Adelaide
-
-
-</div>
