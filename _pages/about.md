@@ -22,7 +22,9 @@ Earlier in my academic journey, I earned a **B.Eng. in Electronic Engineering (F
 NEWS
 ======
 
-
+* 09/2025: One paper is accepted to NeurIPS 2025: 
+  **Understanding while Exploring: Semantics-driven Active Mapping**
+  [[arxiv]](https://arxiv.org/abs/2506.00225)
 
 * 08/2025: One preprint is online:
   **RLGS: Reinforcement Learning-Based Adaptive Hyperparameter Tuning for Gaussian Splatting**
@@ -36,7 +38,7 @@ NEWS
   **Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying**
   [[arxiv]](https://arxiv.org/abs/2503.21767)
 
-* 03/2025: One paper is accepted to LNCS 2025: 
+* 03/2025: One paper is accepted to CGI 2025: 
   **Dynamic voxel grid optimization for high-fidelity rgb-d supervised surface reconstruction**
   [[arxiv]](https://arxiv.org/pdf/2304.06178)
 
